@@ -1,0 +1,2 @@
+# want-to-make-an-IA-that-advise-prices-
+hi, i would like to create an AI for my mom that can tell the price of the different clothes she has to sell in her shop. for that, I thought of integrating a database in which there would be several thousand garments with their price, their fabric, their brand, their years of sale. I would then like the AI ​​to be able to come up with a reliable and consistent price. 
